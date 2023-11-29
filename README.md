@@ -16,6 +16,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+<div align="center">
       <p align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
           <img
@@ -69,8 +70,8 @@
             height="60"
           />
         </a>
-<br>
-            <br>
+      <br>
+      <br>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -144,5 +145,5 @@
           />
         </a>
       </p>
-      
+</div>
 ![flow1](https://github.com/jjavieralonso/jjavieralonso/assets/47129043/cfbfda59-d734-4411-8965-9b5510534c07)
