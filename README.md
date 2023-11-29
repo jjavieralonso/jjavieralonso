@@ -144,5 +144,5 @@
         </a>
       </p>
       
-![flow1](https://github.com/jjavieralonso/jjavieralonso/assets/47129043/cfbfda59-d734-4411-8965-9b5510534c07)
+<p>![flow1](https://github.com/jjavieralonso/jjavieralonso/assets/47129043/cfbfda59-d734-4411-8965-9b5510534c07)</p>
 
