@@ -12,11 +12,10 @@
        
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/javier-alonso-502a59205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-alonso-502a59205" height="30" width="40" /></a>
+       <a href="https://linkedin.com/in/javier-alonso-502a59205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-         generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-alonso-502a59205" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<section align="center">
       <p align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
           <img
@@ -145,6 +144,6 @@
           />
         </a>
       </p>
-</section>
+      
 ![flow1](https://github.com/jjavieralonso/jjavieralonso/assets/47129043/cfbfda59-d734-4411-8965-9b5510534c07)
 
