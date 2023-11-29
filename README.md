@@ -2,6 +2,7 @@
 <h3 align="center">Front-end dev from Argentina 🇦🇷</h3>
 <div align="center">
 🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-angular-clone)
+<br>
 
 🌱 I’m currently learning **Angular 17 and its new features**
 
