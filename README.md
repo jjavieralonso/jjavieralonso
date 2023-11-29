@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Javier Alonso</h1>
 <h3 align="center">Front-end dev from Argentina 🇦🇷</h3>
 <p align="center">
-- 🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-angular-clone)
+🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-angular-clone)
 
-- 🌱 I’m currently learning **Angular 17 and its new features**
+🌱 I’m currently learning **Angular 17 and its new features**
 
-- 👨‍💻 Take a look at my [Portfolio](https://javieralonso-portfolio.netlify.app/)
+👨‍💻 Take a look at my [Portfolio](https://javieralonso-portfolio.netlify.app/)
 
-- 📫 How to reach me **javoalon@gmail.com**
+📫 How to reach me **javoalon@gmail.com**
 </p>
+<div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/javier-alonso-502a59205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-alonso-502a59205" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-      <p align="left">
+      <p align="center">
         <a href="https://angular.io" target="_blank" rel="noreferrer">
           <img
             src="https://angular.io/assets/images/logos/angular/angular.svg"
