@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Alonso</h1>
 <h3 align="center">Front-end dev from Argentina 🇦🇷</h3>
-
+<div align="center">
 - 🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-angular-clone)
 
 - 🌱 I’m currently learning **Angular 17 and its new features**
@@ -145,3 +145,4 @@
       </p>
       
 ![flow1](https://github.com/jjavieralonso/jjavieralonso/assets/47129043/cfbfda59-d734-4411-8965-9b5510534c07)
+</div>
