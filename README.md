@@ -3,7 +3,7 @@
 <div align="center">
        🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-angular-clone)
 
-🌱 I’m currently learning **Angular 17 and its new features**
+✔ I’m currently learning **Angular 17 and its new features**
 
 👨‍💻 Take a look at my [Portfolio](https://javieralonso-portfolio.netlify.app/)
 
