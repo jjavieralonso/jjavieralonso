@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Alonso</h1>
 <h3 align="center">Front-end dev from Argentina 🇦🇷</h3>
 
-- 🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-angular-clone)
+- 🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-front-clone)
 
 - 🌱 I’m currently learning **UX/UI design**
 
