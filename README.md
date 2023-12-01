@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-front-clone)
 
-- 🌱 I’m currently learning **UX/UI design**
+- 🌱 I’m currently learning **Angular 17 new features**
 
 - 👨‍💻 Take a look at my Portfolio [https://javieralonso-portfolio.netlify.app/](https://javieralonso-portfolio.netlify.app/)
 
