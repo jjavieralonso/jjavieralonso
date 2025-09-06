@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Javier Alonso</h1>
-<h3 align="center">Front-end dev from Argentina 🇦🇷</h3>
-
-- 🔭 I’m currently working on [HBO Max Front Clone](https://github.com/jjavieralonso/hbo-front-clone)
-
-- ✔ I’m currently learning **Angular 17 new features** 🆕
-
-- 👨‍💻 Take a look at my Portfolio [https://javieralonso-portfolio.netlify.app/](https://javieralonso-portfolio.netlify.app/)
-
 - 📫 How to reach me: **javoalon@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
