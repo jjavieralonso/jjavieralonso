@@ -1,5 +1,5 @@
 - 📫 How to reach me: **javoalon@gmail.com**
-- 🌐 <a href="javieralonso.dev" target="_blank">javieralonso.dev</a>
+- 🌐 <a href="wwww.javieralonso.dev" target="_blank">javieralonso.dev</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
